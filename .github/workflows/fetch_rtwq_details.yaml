@@ -7,7 +7,7 @@ on:
   workflow_dispatch:  # Allow manual triggers
 
 jobs:
-  fetch-dam-details:
+  fetch-water-quality-details:
     runs-on: ubuntu-latest
 
     steps:
