@@ -24,7 +24,7 @@ jobs:
       run: npm install
 
     - name: Run water quality details fetcher
-      run: npm run start
+      run: NODE_EXTRA_CA_CERTS=certs/rtwqms_chain.crt npm run start
 
     - name: Commit and push if changes
       run: |
