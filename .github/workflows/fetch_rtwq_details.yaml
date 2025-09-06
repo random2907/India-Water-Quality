@@ -21,7 +21,7 @@ jobs:
 
 
     - name: Install dependencies
-      run: npm run setup
+      run: npm run install
 
     - name: Run water quality details fetcher
       run: node run start
