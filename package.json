@@ -1,0 +1,10 @@
+{
+  "name": "rtwqms-fetcher",
+  "version": "1.0.0",
+  "description": "Fetch live data from rtwqmsdb1.cpcb.gov.in",
+  "type": "module",
+  "scripts": {
+    "start": "node src/rtwqms_details_fetcher.js"
+  }
+}
+
