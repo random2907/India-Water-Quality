@@ -376,9 +376,9 @@
     },
     {
         "ts_id": 39398010,
-        "timestamp": "2025-09-07T05:30:00.000Z",
+        "timestamp": "2025-09-07T06:30:00.000Z",
         "req_timestamp": null,
-        "ts_value": 13.24,
+        "ts_value": 13.91,
         "station_latitude": 25.6533,
         "station_longitude": 85.0952,
         "ts_name": "DSP.Cmd.Production",
@@ -6376,9 +6376,9 @@
     },
     {
         "ts_id": 25138010,
-        "timestamp": "2025-09-07T05:30:00.000Z",
+        "timestamp": "2025-09-07T06:30:00.000Z",
         "req_timestamp": null,
-        "ts_value": 0.79,
+        "ts_value": 0.78,
         "station_latitude": 25.6533,
         "station_longitude": 85.0952,
         "ts_name": "DSP.Cmd.Production",
@@ -9526,7 +9526,7 @@
     },
     {
         "ts_id": 17128010,
-        "timestamp": "2025-09-07T05:30:00.000Z",
+        "timestamp": "2025-09-07T06:30:00.000Z",
         "req_timestamp": null,
         "ts_value": 7.84,
         "station_latitude": 25.6533,
@@ -9751,7 +9751,7 @@
     },
     {
         "ts_id": 17127010,
-        "timestamp": "2025-09-07T05:30:00.000Z",
+        "timestamp": "2025-09-07T06:30:00.000Z",
         "req_timestamp": null,
         "ts_value": 0.3,
         "station_latitude": 25.6533,
@@ -9876,9 +9876,9 @@
     },
     {
         "ts_id": 37961010,
-        "timestamp": "2025-09-07T05:30:00.000Z",
+        "timestamp": "2025-09-07T06:30:00.000Z",
         "req_timestamp": null,
-        "ts_value": 51.29,
+        "ts_value": 51.28,
         "station_latitude": 25.6533,
         "station_longitude": 85.0952,
         "ts_name": "DSP.Cmd.Production",
@@ -9976,9 +9976,9 @@
     },
     {
         "ts_id": 17126010,
-        "timestamp": "2025-09-07T05:30:00.000Z",
+        "timestamp": "2025-09-07T06:30:00.000Z",
         "req_timestamp": null,
-        "ts_value": 288.72,
+        "ts_value": 289.58,
         "station_latitude": 25.6533,
         "station_longitude": 85.0952,
         "ts_name": "DSP.Cmd.Production",
@@ -10326,7 +10326,7 @@
     },
     {
         "ts_id": 17125010,
-        "timestamp": "2025-09-07T05:30:00.000Z",
+        "timestamp": "2025-09-07T06:30:00.000Z",
         "req_timestamp": null,
         "ts_value": 6.99,
         "station_latitude": 25.6533,
@@ -10576,7 +10576,7 @@
     },
     {
         "ts_id": 17124010,
-        "timestamp": "2025-09-07T05:30:00.000Z",
+        "timestamp": "2025-09-07T06:30:00.000Z",
         "req_timestamp": null,
         "ts_value": 11.56,
         "station_latitude": 25.6533,
