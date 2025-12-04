@@ -145,7 +145,7 @@
         "catchment_name": "---",
         "territory_name": "Uttar Pradesh",
         "ObjectDescription": "",
-        "station_diary_status": "2023-09-01 15:00:00: FM Start: Flood event<br>2023-10-18 13:00:00: FM End: Flood event<br>2024-07-22 14:00:00: FM Start: Technical issue<br>2024-07-23 21:00:00: FM End: Technical issue<br>2024-12-23 11:00:00: FM Start: Technical issue<br>2024-12-23 14:00:00: FM End: Technical issue<br>2025-09-27 18:00:00: FM Start: Technical issue",
+        "station_diary_status": "2023-09-01 15:00:00: FM Start: Flood event<br>2023-10-18 13:00:00: FM End: Flood event<br>2024-07-22 14:00:00: FM Start: Technical issue<br>2024-07-23 21:00:00: FM End: Technical issue<br>2024-12-23 11:00:00: FM Start: Technical issue<br>2024-12-23 14:00:00: FM End: Technical issue<br>2025-09-27 18:00:00: FM Start: Technical issue<br>2025-10-04 16:00:00: FM End: Technical issue",
         "station_status_remark": "SDGAN-347",
         "MAX_RANGE": "500.0"
     },
@@ -495,8 +495,8 @@
         "catchment_name": "---",
         "territory_name": "Jharkhand",
         "ObjectDescription": "",
-        "station_diary_status": "2022-12-07 17:00:00: FM Start: Low water<br>2023-06-11 18:00:00: FM End: Reason<br>2024-12-23 09:00:00: FM Start: Technical issue<br>2024-12-23 11:00:00: FM End: Technical issue",
-        "station_status_remark": "SDGAN-311",
+        "station_diary_status": "2022-12-07 17:00:00: FM Start: Low water<br>2023-06-11 18:00:00: FM End: Reason<br>2024-12-23 09:00:00: FM Start: Technical issue<br>2024-12-23 11:00:00: FM End: Technical issue<br>2025-11-20 07:00:00: FM Start: Low water",
+        "station_status_remark": "SDGAN-353",
         "MAX_RANGE": ""
     },
     {
@@ -795,8 +795,8 @@
         "catchment_name": "---",
         "territory_name": "Jharkhand",
         "ObjectDescription": "",
-        "station_diary_status": "2022-12-07 17:00:00: FM Start: Low water<br>2023-06-11 18:00:00: FM End: Reason<br>2024-12-23 09:00:00: FM Start: Technical issue<br>2024-12-23 11:00:00: FM End: Technical issue",
-        "station_status_remark": "SDGAN-311",
+        "station_diary_status": "2022-12-07 17:00:00: FM Start: Low water<br>2023-06-11 18:00:00: FM End: Reason<br>2024-12-23 09:00:00: FM Start: Technical issue<br>2024-12-23 11:00:00: FM End: Technical issue<br>2025-11-20 07:00:00: FM Start: Low water",
+        "station_status_remark": "SDGAN-353",
         "MAX_RANGE": ""
     },
     {
@@ -1020,8 +1020,8 @@
         "catchment_name": "---",
         "territory_name": "Jharkhand",
         "ObjectDescription": "",
-        "station_diary_status": "2022-12-07 17:00:00: FM Start: Low water<br>2023-06-11 18:00:00: FM End: Reason<br>2024-12-23 09:00:00: FM Start: Technical issue<br>2024-12-23 11:00:00: FM End: Technical issue",
-        "station_status_remark": "SDGAN-311",
+        "station_diary_status": "2022-12-07 17:00:00: FM Start: Low water<br>2023-06-11 18:00:00: FM End: Reason<br>2024-12-23 09:00:00: FM Start: Technical issue<br>2024-12-23 11:00:00: FM End: Technical issue<br>2025-11-20 07:00:00: FM Start: Low water",
+        "station_status_remark": "SDGAN-353",
         "MAX_RANGE": ""
     },
     {
@@ -1120,7 +1120,7 @@
         "catchment_name": "---",
         "territory_name": "Jharkhand",
         "ObjectDescription": "",
-        "station_diary_status": "2022-07-13 00:00:00: FM Start: Low water<br>2022-08-11 03:00:00: FM End: Reason<br>2022-08-24 15:00:00: FM Start: Flood event<br>2022-10-28 17:00:00: FM End: Flood event<br>2024-08-03 08:00:00: FM Start: Flood event<br>2024-08-20 18:00:00: FM End: Flood event<br>2024-12-25 16:00:00: FM Start: Technical issue<br>2024-12-25 18:00:00: FM End: Technical issue<br>2025-07-11 06:00:00: FM Start: Flood event",
+        "station_diary_status": "2022-07-13 00:00:00: FM Start: Low water<br>2022-08-11 03:00:00: FM End: Reason<br>2022-08-24 15:00:00: FM Start: Flood event<br>2022-10-28 17:00:00: FM End: Flood event<br>2024-08-03 08:00:00: FM Start: Flood event<br>2024-08-20 18:00:00: FM End: Flood event<br>2024-12-25 16:00:00: FM Start: Technical issue<br>2024-12-25 18:00:00: FM End: Technical issue<br>2025-07-11 06:00:00: FM Start: Flood event<br>2025-07-14 16:00:00: FM End: Flood event",
         "station_status_remark": "SDGAN-335",
         "MAX_RANGE": ""
     },
@@ -1370,8 +1370,8 @@
         "catchment_name": "---",
         "territory_name": "Jharkhand",
         "ObjectDescription": "",
-        "station_diary_status": "2022-12-07 17:00:00: FM Start: Low water<br>2023-06-11 18:00:00: FM End: Reason<br>2024-12-23 09:00:00: FM Start: Technical issue<br>2024-12-23 11:00:00: FM End: Technical issue",
-        "station_status_remark": "SDGAN-311",
+        "station_diary_status": "2022-12-07 17:00:00: FM Start: Low water<br>2023-06-11 18:00:00: FM End: Reason<br>2024-12-23 09:00:00: FM Start: Technical issue<br>2024-12-23 11:00:00: FM End: Technical issue<br>2025-11-20 07:00:00: FM Start: Low water",
+        "station_status_remark": "SDGAN-353",
         "MAX_RANGE": ""
     },
     {
@@ -1620,8 +1620,8 @@
         "catchment_name": "---",
         "territory_name": "Jharkhand",
         "ObjectDescription": "",
-        "station_diary_status": "2022-12-07 17:00:00: FM Start: Low water<br>2023-06-11 18:00:00: FM End: Reason<br>2024-12-23 09:00:00: FM Start: Technical issue<br>2024-12-23 11:00:00: FM End: Technical issue",
-        "station_status_remark": "SDGAN-311",
+        "station_diary_status": "2022-12-07 17:00:00: FM Start: Low water<br>2023-06-11 18:00:00: FM End: Reason<br>2024-12-23 09:00:00: FM Start: Technical issue<br>2024-12-23 11:00:00: FM End: Technical issue<br>2025-11-20 07:00:00: FM Start: Low water",
+        "station_status_remark": "SDGAN-353",
         "MAX_RANGE": ""
     },
     {
@@ -1695,7 +1695,7 @@
         "catchment_name": "---",
         "territory_name": "Uttar Pradesh",
         "ObjectDescription": "",
-        "station_diary_status": "2023-09-01 15:00:00: FM Start: Flood event<br>2023-10-18 13:00:00: FM End: Flood event<br>2024-07-22 14:00:00: FM Start: Technical issue<br>2024-07-23 21:00:00: FM End: Technical issue<br>2024-12-23 11:00:00: FM Start: Technical issue<br>2024-12-23 14:00:00: FM End: Technical issue<br>2025-09-27 18:00:00: FM Start: Technical issue",
+        "station_diary_status": "2023-09-01 15:00:00: FM Start: Flood event<br>2023-10-18 13:00:00: FM End: Flood event<br>2024-07-22 14:00:00: FM Start: Technical issue<br>2024-07-23 21:00:00: FM End: Technical issue<br>2024-12-23 11:00:00: FM Start: Technical issue<br>2024-12-23 14:00:00: FM End: Technical issue<br>2025-09-27 18:00:00: FM Start: Technical issue<br>2025-10-04 16:00:00: FM End: Technical issue",
         "station_status_remark": "SDGAN-347",
         "MAX_RANGE": ""
     },
@@ -1870,8 +1870,8 @@
         "catchment_name": "---",
         "territory_name": "Jharkhand",
         "ObjectDescription": "",
-        "station_diary_status": "2022-12-07 17:00:00: FM Start: Low water<br>2023-06-11 18:00:00: FM End: Reason<br>2024-12-23 09:00:00: FM Start: Technical issue<br>2024-12-23 11:00:00: FM End: Technical issue",
-        "station_status_remark": "SDGAN-311",
+        "station_diary_status": "2022-12-07 17:00:00: FM Start: Low water<br>2023-06-11 18:00:00: FM End: Reason<br>2024-12-23 09:00:00: FM Start: Technical issue<br>2024-12-23 11:00:00: FM End: Technical issue<br>2025-11-20 07:00:00: FM Start: Low water",
+        "station_status_remark": "SDGAN-353",
         "MAX_RANGE": ""
     },
     {
@@ -5195,8 +5195,8 @@
         "catchment_name": "---",
         "territory_name": "Jharkhand",
         "ObjectDescription": "",
-        "station_diary_status": "2022-12-07 17:00:00: FM Start: Low water<br>2023-06-11 18:00:00: FM End: Reason<br>2024-12-23 09:00:00: FM Start: Technical issue<br>2024-12-23 11:00:00: FM End: Technical issue",
-        "station_status_remark": "SDGAN-311",
+        "station_diary_status": "2022-12-07 17:00:00: FM Start: Low water<br>2023-06-11 18:00:00: FM End: Reason<br>2024-12-23 09:00:00: FM Start: Technical issue<br>2024-12-23 11:00:00: FM End: Technical issue<br>2025-11-20 07:00:00: FM Start: Low water",
+        "station_status_remark": "SDGAN-353",
         "MAX_RANGE": ""
     },
     {
@@ -5495,8 +5495,8 @@
         "catchment_name": "---",
         "territory_name": "Jharkhand",
         "ObjectDescription": "",
-        "station_diary_status": "2022-12-07 17:00:00: FM Start: Low water<br>2023-06-11 18:00:00: FM End: Reason<br>2024-12-23 09:00:00: FM Start: Technical issue<br>2024-12-23 11:00:00: FM End: Technical issue",
-        "station_status_remark": "SDGAN-311",
+        "station_diary_status": "2022-12-07 17:00:00: FM Start: Low water<br>2023-06-11 18:00:00: FM End: Reason<br>2024-12-23 09:00:00: FM Start: Technical issue<br>2024-12-23 11:00:00: FM End: Technical issue<br>2025-11-20 07:00:00: FM Start: Low water",
+        "station_status_remark": "SDGAN-353",
         "MAX_RANGE": ""
     },
     {
@@ -5645,7 +5645,7 @@
         "catchment_name": "---",
         "territory_name": "Uttar Pradesh",
         "ObjectDescription": "",
-        "station_diary_status": "2023-09-01 15:00:00: FM Start: Flood event<br>2023-10-18 13:00:00: FM End: Flood event<br>2024-07-22 14:00:00: FM Start: Technical issue<br>2024-07-23 21:00:00: FM End: Technical issue<br>2024-12-23 11:00:00: FM Start: Technical issue<br>2024-12-23 14:00:00: FM End: Technical issue<br>2025-09-27 18:00:00: FM Start: Technical issue",
+        "station_diary_status": "2023-09-01 15:00:00: FM Start: Flood event<br>2023-10-18 13:00:00: FM End: Flood event<br>2024-07-22 14:00:00: FM Start: Technical issue<br>2024-07-23 21:00:00: FM End: Technical issue<br>2024-12-23 11:00:00: FM Start: Technical issue<br>2024-12-23 14:00:00: FM End: Technical issue<br>2025-09-27 18:00:00: FM Start: Technical issue<br>2025-10-04 16:00:00: FM End: Technical issue",
         "station_status_remark": "SDGAN-347",
         "MAX_RANGE": ""
     },
@@ -5695,7 +5695,7 @@
         "catchment_name": "---",
         "territory_name": "Jharkhand",
         "ObjectDescription": "",
-        "station_diary_status": "2022-07-13 00:00:00: FM Start: Low water<br>2022-08-11 03:00:00: FM End: Reason<br>2022-08-24 15:00:00: FM Start: Flood event<br>2022-10-28 17:00:00: FM End: Flood event<br>2024-08-03 08:00:00: FM Start: Flood event<br>2024-08-20 18:00:00: FM End: Flood event<br>2024-12-25 16:00:00: FM Start: Technical issue<br>2024-12-25 18:00:00: FM End: Technical issue<br>2025-07-11 06:00:00: FM Start: Flood event",
+        "station_diary_status": "2022-07-13 00:00:00: FM Start: Low water<br>2022-08-11 03:00:00: FM End: Reason<br>2022-08-24 15:00:00: FM Start: Flood event<br>2022-10-28 17:00:00: FM End: Flood event<br>2024-08-03 08:00:00: FM Start: Flood event<br>2024-08-20 18:00:00: FM End: Flood event<br>2024-12-25 16:00:00: FM Start: Technical issue<br>2024-12-25 18:00:00: FM End: Technical issue<br>2025-07-11 06:00:00: FM Start: Flood event<br>2025-07-14 16:00:00: FM End: Flood event",
         "station_status_remark": "SDGAN-335",
         "MAX_RANGE": ""
     },
@@ -5720,7 +5720,7 @@
         "catchment_name": "---",
         "territory_name": "Uttar Pradesh",
         "ObjectDescription": "",
-        "station_diary_status": "2023-09-01 15:00:00: FM Start: Flood event<br>2023-10-18 13:00:00: FM End: Flood event<br>2024-07-22 14:00:00: FM Start: Technical issue<br>2024-07-23 21:00:00: FM End: Technical issue<br>2024-12-23 11:00:00: FM Start: Technical issue<br>2024-12-23 14:00:00: FM End: Technical issue<br>2025-09-27 18:00:00: FM Start: Technical issue",
+        "station_diary_status": "2023-09-01 15:00:00: FM Start: Flood event<br>2023-10-18 13:00:00: FM End: Flood event<br>2024-07-22 14:00:00: FM Start: Technical issue<br>2024-07-23 21:00:00: FM End: Technical issue<br>2024-12-23 11:00:00: FM Start: Technical issue<br>2024-12-23 14:00:00: FM End: Technical issue<br>2025-09-27 18:00:00: FM Start: Technical issue<br>2025-10-04 16:00:00: FM End: Technical issue",
         "station_status_remark": "SDGAN-347",
         "MAX_RANGE": "1500.0"
     },
@@ -5770,8 +5770,8 @@
         "catchment_name": "---",
         "territory_name": "Jharkhand",
         "ObjectDescription": "",
-        "station_diary_status": "2022-12-07 17:00:00: FM Start: Low water<br>2023-06-11 18:00:00: FM End: Reason<br>2024-12-23 09:00:00: FM Start: Technical issue<br>2024-12-23 11:00:00: FM End: Technical issue",
-        "station_status_remark": "SDGAN-311",
+        "station_diary_status": "2022-12-07 17:00:00: FM Start: Low water<br>2023-06-11 18:00:00: FM End: Reason<br>2024-12-23 09:00:00: FM Start: Technical issue<br>2024-12-23 11:00:00: FM End: Technical issue<br>2025-11-20 07:00:00: FM Start: Low water",
+        "station_status_remark": "SDGAN-353",
         "MAX_RANGE": ""
     },
     {
@@ -6170,7 +6170,7 @@
         "catchment_name": "---",
         "territory_name": "Jharkhand",
         "ObjectDescription": "",
-        "station_diary_status": "2022-07-13 00:00:00: FM Start: Low water<br>2022-08-11 03:00:00: FM End: Reason<br>2022-08-24 15:00:00: FM Start: Flood event<br>2022-10-28 17:00:00: FM End: Flood event<br>2024-08-03 08:00:00: FM Start: Flood event<br>2024-08-20 18:00:00: FM End: Flood event<br>2024-12-25 16:00:00: FM Start: Technical issue<br>2024-12-25 18:00:00: FM End: Technical issue<br>2025-07-11 06:00:00: FM Start: Flood event",
+        "station_diary_status": "2022-07-13 00:00:00: FM Start: Low water<br>2022-08-11 03:00:00: FM End: Reason<br>2022-08-24 15:00:00: FM Start: Flood event<br>2022-10-28 17:00:00: FM End: Flood event<br>2024-08-03 08:00:00: FM Start: Flood event<br>2024-08-20 18:00:00: FM End: Flood event<br>2024-12-25 16:00:00: FM Start: Technical issue<br>2024-12-25 18:00:00: FM End: Technical issue<br>2025-07-11 06:00:00: FM Start: Flood event<br>2025-07-14 16:00:00: FM End: Flood event",
         "station_status_remark": "SDGAN-335",
         "MAX_RANGE": ""
     },
@@ -6345,7 +6345,7 @@
         "catchment_name": "---",
         "territory_name": "Uttar Pradesh",
         "ObjectDescription": "",
-        "station_diary_status": "2023-09-01 15:00:00: FM Start: Flood event<br>2023-10-18 13:00:00: FM End: Flood event<br>2024-07-22 14:00:00: FM Start: Technical issue<br>2024-07-23 21:00:00: FM End: Technical issue<br>2024-12-23 11:00:00: FM Start: Technical issue<br>2024-12-23 14:00:00: FM End: Technical issue<br>2025-09-27 18:00:00: FM Start: Technical issue",
+        "station_diary_status": "2023-09-01 15:00:00: FM Start: Flood event<br>2023-10-18 13:00:00: FM End: Flood event<br>2024-07-22 14:00:00: FM Start: Technical issue<br>2024-07-23 21:00:00: FM End: Technical issue<br>2024-12-23 11:00:00: FM Start: Technical issue<br>2024-12-23 14:00:00: FM End: Technical issue<br>2025-09-27 18:00:00: FM Start: Technical issue<br>2025-10-04 16:00:00: FM End: Technical issue",
         "station_status_remark": "SDGAN-347",
         "MAX_RANGE": ""
     },
@@ -6370,7 +6370,7 @@
         "catchment_name": "---",
         "territory_name": "Jharkhand",
         "ObjectDescription": "",
-        "station_diary_status": "2022-07-13 00:00:00: FM Start: Low water<br>2022-08-11 03:00:00: FM End: Reason<br>2022-08-24 15:00:00: FM Start: Flood event<br>2022-10-28 17:00:00: FM End: Flood event<br>2024-08-03 08:00:00: FM Start: Flood event<br>2024-08-20 18:00:00: FM End: Flood event<br>2024-12-25 16:00:00: FM Start: Technical issue<br>2024-12-25 18:00:00: FM End: Technical issue<br>2025-07-11 06:00:00: FM Start: Flood event",
+        "station_diary_status": "2022-07-13 00:00:00: FM Start: Low water<br>2022-08-11 03:00:00: FM End: Reason<br>2022-08-24 15:00:00: FM Start: Flood event<br>2022-10-28 17:00:00: FM End: Flood event<br>2024-08-03 08:00:00: FM Start: Flood event<br>2024-08-20 18:00:00: FM End: Flood event<br>2024-12-25 16:00:00: FM Start: Technical issue<br>2024-12-25 18:00:00: FM End: Technical issue<br>2025-07-11 06:00:00: FM Start: Flood event<br>2025-07-14 16:00:00: FM End: Flood event",
         "station_status_remark": "SDGAN-335",
         "MAX_RANGE": ""
     },
@@ -6870,7 +6870,7 @@
         "catchment_name": "---",
         "territory_name": "Uttar Pradesh",
         "ObjectDescription": "",
-        "station_diary_status": "2023-09-01 15:00:00: FM Start: Flood event<br>2023-10-18 13:00:00: FM End: Flood event<br>2024-07-22 14:00:00: FM Start: Technical issue<br>2024-07-23 21:00:00: FM End: Technical issue<br>2024-12-23 11:00:00: FM Start: Technical issue<br>2024-12-23 14:00:00: FM End: Technical issue<br>2025-09-27 18:00:00: FM Start: Technical issue",
+        "station_diary_status": "2023-09-01 15:00:00: FM Start: Flood event<br>2023-10-18 13:00:00: FM End: Flood event<br>2024-07-22 14:00:00: FM Start: Technical issue<br>2024-07-23 21:00:00: FM End: Technical issue<br>2024-12-23 11:00:00: FM Start: Technical issue<br>2024-12-23 14:00:00: FM End: Technical issue<br>2025-09-27 18:00:00: FM Start: Technical issue<br>2025-10-04 16:00:00: FM End: Technical issue",
         "station_status_remark": "SDGAN-347",
         "MAX_RANGE": ""
     },
@@ -6970,7 +6970,7 @@
         "catchment_name": "---",
         "territory_name": "Uttar Pradesh",
         "ObjectDescription": "",
-        "station_diary_status": "2023-09-01 15:00:00: FM Start: Flood event<br>2023-10-18 13:00:00: FM End: Flood event<br>2024-07-22 14:00:00: FM Start: Technical issue<br>2024-07-23 21:00:00: FM End: Technical issue<br>2024-12-23 11:00:00: FM Start: Technical issue<br>2024-12-23 14:00:00: FM End: Technical issue<br>2025-09-27 18:00:00: FM Start: Technical issue",
+        "station_diary_status": "2023-09-01 15:00:00: FM Start: Flood event<br>2023-10-18 13:00:00: FM End: Flood event<br>2024-07-22 14:00:00: FM Start: Technical issue<br>2024-07-23 21:00:00: FM End: Technical issue<br>2024-12-23 11:00:00: FM Start: Technical issue<br>2024-12-23 14:00:00: FM End: Technical issue<br>2025-09-27 18:00:00: FM Start: Technical issue<br>2025-10-04 16:00:00: FM End: Technical issue",
         "station_status_remark": "SDGAN-347",
         "MAX_RANGE": ""
     },
@@ -7120,7 +7120,7 @@
         "catchment_name": "---",
         "territory_name": "Jharkhand",
         "ObjectDescription": "",
-        "station_diary_status": "2022-07-13 00:00:00: FM Start: Low water<br>2022-08-11 03:00:00: FM End: Reason<br>2022-08-24 15:00:00: FM Start: Flood event<br>2022-10-28 17:00:00: FM End: Flood event<br>2024-08-03 08:00:00: FM Start: Flood event<br>2024-08-20 18:00:00: FM End: Flood event<br>2024-12-25 16:00:00: FM Start: Technical issue<br>2024-12-25 18:00:00: FM End: Technical issue<br>2025-07-11 06:00:00: FM Start: Flood event",
+        "station_diary_status": "2022-07-13 00:00:00: FM Start: Low water<br>2022-08-11 03:00:00: FM End: Reason<br>2022-08-24 15:00:00: FM Start: Flood event<br>2022-10-28 17:00:00: FM End: Flood event<br>2024-08-03 08:00:00: FM Start: Flood event<br>2024-08-20 18:00:00: FM End: Flood event<br>2024-12-25 16:00:00: FM Start: Technical issue<br>2024-12-25 18:00:00: FM End: Technical issue<br>2025-07-11 06:00:00: FM Start: Flood event<br>2025-07-14 16:00:00: FM End: Flood event",
         "station_status_remark": "SDGAN-335",
         "MAX_RANGE": ""
     },
@@ -7420,7 +7420,7 @@
         "catchment_name": "---",
         "territory_name": "Jharkhand",
         "ObjectDescription": "",
-        "station_diary_status": "2022-07-13 00:00:00: FM Start: Low water<br>2022-08-11 03:00:00: FM End: Reason<br>2022-08-24 15:00:00: FM Start: Flood event<br>2022-10-28 17:00:00: FM End: Flood event<br>2024-08-03 08:00:00: FM Start: Flood event<br>2024-08-20 18:00:00: FM End: Flood event<br>2024-12-25 16:00:00: FM Start: Technical issue<br>2024-12-25 18:00:00: FM End: Technical issue<br>2025-07-11 06:00:00: FM Start: Flood event",
+        "station_diary_status": "2022-07-13 00:00:00: FM Start: Low water<br>2022-08-11 03:00:00: FM End: Reason<br>2022-08-24 15:00:00: FM Start: Flood event<br>2022-10-28 17:00:00: FM End: Flood event<br>2024-08-03 08:00:00: FM Start: Flood event<br>2024-08-20 18:00:00: FM End: Flood event<br>2024-12-25 16:00:00: FM Start: Technical issue<br>2024-12-25 18:00:00: FM End: Technical issue<br>2025-07-11 06:00:00: FM Start: Flood event<br>2025-07-14 16:00:00: FM End: Flood event",
         "station_status_remark": "SDGAN-335",
         "MAX_RANGE": ""
     },
@@ -7470,7 +7470,7 @@
         "catchment_name": "---",
         "territory_name": "Uttar Pradesh",
         "ObjectDescription": "",
-        "station_diary_status": "2023-09-01 15:00:00: FM Start: Flood event<br>2023-10-18 13:00:00: FM End: Flood event<br>2024-07-22 14:00:00: FM Start: Technical issue<br>2024-07-23 21:00:00: FM End: Technical issue<br>2024-12-23 11:00:00: FM Start: Technical issue<br>2024-12-23 14:00:00: FM End: Technical issue<br>2025-09-27 18:00:00: FM Start: Technical issue",
+        "station_diary_status": "2023-09-01 15:00:00: FM Start: Flood event<br>2023-10-18 13:00:00: FM End: Flood event<br>2024-07-22 14:00:00: FM Start: Technical issue<br>2024-07-23 21:00:00: FM End: Technical issue<br>2024-12-23 11:00:00: FM Start: Technical issue<br>2024-12-23 14:00:00: FM End: Technical issue<br>2025-09-27 18:00:00: FM Start: Technical issue<br>2025-10-04 16:00:00: FM End: Technical issue",
         "station_status_remark": "SDGAN-347",
         "MAX_RANGE": ""
     },
@@ -7695,7 +7695,7 @@
         "catchment_name": "---",
         "territory_name": "Jharkhand",
         "ObjectDescription": "",
-        "station_diary_status": "2022-07-13 00:00:00: FM Start: Low water<br>2022-08-11 03:00:00: FM End: Reason<br>2022-08-24 15:00:00: FM Start: Flood event<br>2022-10-28 17:00:00: FM End: Flood event<br>2024-08-03 08:00:00: FM Start: Flood event<br>2024-08-20 18:00:00: FM End: Flood event<br>2024-12-25 16:00:00: FM Start: Technical issue<br>2024-12-25 18:00:00: FM End: Technical issue<br>2025-07-11 06:00:00: FM Start: Flood event",
+        "station_diary_status": "2022-07-13 00:00:00: FM Start: Low water<br>2022-08-11 03:00:00: FM End: Reason<br>2022-08-24 15:00:00: FM Start: Flood event<br>2022-10-28 17:00:00: FM End: Flood event<br>2024-08-03 08:00:00: FM Start: Flood event<br>2024-08-20 18:00:00: FM End: Flood event<br>2024-12-25 16:00:00: FM Start: Technical issue<br>2024-12-25 18:00:00: FM End: Technical issue<br>2025-07-11 06:00:00: FM Start: Flood event<br>2025-07-14 16:00:00: FM End: Flood event",
         "station_status_remark": "SDGAN-335",
         "MAX_RANGE": ""
     },
@@ -7970,7 +7970,7 @@
         "catchment_name": "---",
         "territory_name": "Jharkhand",
         "ObjectDescription": "",
-        "station_diary_status": "2022-07-13 00:00:00: FM Start: Low water<br>2022-08-11 03:00:00: FM End: Reason<br>2022-08-24 15:00:00: FM Start: Flood event<br>2022-10-28 17:00:00: FM End: Flood event<br>2024-08-03 08:00:00: FM Start: Flood event<br>2024-08-20 18:00:00: FM End: Flood event<br>2024-12-25 16:00:00: FM Start: Technical issue<br>2024-12-25 18:00:00: FM End: Technical issue<br>2025-07-11 06:00:00: FM Start: Flood event",
+        "station_diary_status": "2022-07-13 00:00:00: FM Start: Low water<br>2022-08-11 03:00:00: FM End: Reason<br>2022-08-24 15:00:00: FM Start: Flood event<br>2022-10-28 17:00:00: FM End: Flood event<br>2024-08-03 08:00:00: FM Start: Flood event<br>2024-08-20 18:00:00: FM End: Flood event<br>2024-12-25 16:00:00: FM Start: Technical issue<br>2024-12-25 18:00:00: FM End: Technical issue<br>2025-07-11 06:00:00: FM Start: Flood event<br>2025-07-14 16:00:00: FM End: Flood event",
         "station_status_remark": "SDGAN-335",
         "MAX_RANGE": ""
     },
@@ -8020,7 +8020,7 @@
         "catchment_name": "---",
         "territory_name": "Jharkhand",
         "ObjectDescription": "",
-        "station_diary_status": "2022-07-13 00:00:00: FM Start: Low water<br>2022-08-11 03:00:00: FM End: Reason<br>2022-08-24 15:00:00: FM Start: Flood event<br>2022-10-28 17:00:00: FM End: Flood event<br>2024-08-03 08:00:00: FM Start: Flood event<br>2024-08-20 18:00:00: FM End: Flood event<br>2024-12-25 16:00:00: FM Start: Technical issue<br>2024-12-25 18:00:00: FM End: Technical issue<br>2025-07-11 06:00:00: FM Start: Flood event",
+        "station_diary_status": "2022-07-13 00:00:00: FM Start: Low water<br>2022-08-11 03:00:00: FM End: Reason<br>2022-08-24 15:00:00: FM Start: Flood event<br>2022-10-28 17:00:00: FM End: Flood event<br>2024-08-03 08:00:00: FM Start: Flood event<br>2024-08-20 18:00:00: FM End: Flood event<br>2024-12-25 16:00:00: FM Start: Technical issue<br>2024-12-25 18:00:00: FM End: Technical issue<br>2025-07-11 06:00:00: FM Start: Flood event<br>2025-07-14 16:00:00: FM End: Flood event",
         "station_status_remark": "SDGAN-335",
         "MAX_RANGE": ""
     },
@@ -8045,7 +8045,7 @@
         "catchment_name": "---",
         "territory_name": "Uttar Pradesh",
         "ObjectDescription": "",
-        "station_diary_status": "2023-09-01 15:00:00: FM Start: Flood event<br>2023-10-18 13:00:00: FM End: Flood event<br>2024-07-22 14:00:00: FM Start: Technical issue<br>2024-07-23 21:00:00: FM End: Technical issue<br>2024-12-23 11:00:00: FM Start: Technical issue<br>2024-12-23 14:00:00: FM End: Technical issue<br>2025-09-27 18:00:00: FM Start: Technical issue",
+        "station_diary_status": "2023-09-01 15:00:00: FM Start: Flood event<br>2023-10-18 13:00:00: FM End: Flood event<br>2024-07-22 14:00:00: FM Start: Technical issue<br>2024-07-23 21:00:00: FM End: Technical issue<br>2024-12-23 11:00:00: FM Start: Technical issue<br>2024-12-23 14:00:00: FM End: Technical issue<br>2025-09-27 18:00:00: FM Start: Technical issue<br>2025-10-04 16:00:00: FM End: Technical issue",
         "station_status_remark": "SDGAN-347",
         "MAX_RANGE": ""
     },
@@ -8220,7 +8220,7 @@
         "catchment_name": "---",
         "territory_name": "Jharkhand",
         "ObjectDescription": "",
-        "station_diary_status": "2022-07-13 00:00:00: FM Start: Low water<br>2022-08-11 03:00:00: FM End: Reason<br>2022-08-24 15:00:00: FM Start: Flood event<br>2022-10-28 17:00:00: FM End: Flood event<br>2024-08-03 08:00:00: FM Start: Flood event<br>2024-08-20 18:00:00: FM End: Flood event<br>2024-12-25 16:00:00: FM Start: Technical issue<br>2024-12-25 18:00:00: FM End: Technical issue<br>2025-07-11 06:00:00: FM Start: Flood event",
+        "station_diary_status": "2022-07-13 00:00:00: FM Start: Low water<br>2022-08-11 03:00:00: FM End: Reason<br>2022-08-24 15:00:00: FM Start: Flood event<br>2022-10-28 17:00:00: FM End: Flood event<br>2024-08-03 08:00:00: FM Start: Flood event<br>2024-08-20 18:00:00: FM End: Flood event<br>2024-12-25 16:00:00: FM Start: Technical issue<br>2024-12-25 18:00:00: FM End: Technical issue<br>2025-07-11 06:00:00: FM Start: Flood event<br>2025-07-14 16:00:00: FM End: Flood event",
         "station_status_remark": "SDGAN-335",
         "MAX_RANGE": "1500.0"
     },
@@ -8420,7 +8420,7 @@
         "catchment_name": "---",
         "territory_name": "Jharkhand",
         "ObjectDescription": "",
-        "station_diary_status": "2022-07-13 00:00:00: FM Start: Low water<br>2022-08-11 03:00:00: FM End: Reason<br>2022-08-24 15:00:00: FM Start: Flood event<br>2022-10-28 17:00:00: FM End: Flood event<br>2024-08-03 08:00:00: FM Start: Flood event<br>2024-08-20 18:00:00: FM End: Flood event<br>2024-12-25 16:00:00: FM Start: Technical issue<br>2024-12-25 18:00:00: FM End: Technical issue<br>2025-07-11 06:00:00: FM Start: Flood event",
+        "station_diary_status": "2022-07-13 00:00:00: FM Start: Low water<br>2022-08-11 03:00:00: FM End: Reason<br>2022-08-24 15:00:00: FM Start: Flood event<br>2022-10-28 17:00:00: FM End: Flood event<br>2024-08-03 08:00:00: FM Start: Flood event<br>2024-08-20 18:00:00: FM End: Flood event<br>2024-12-25 16:00:00: FM Start: Technical issue<br>2024-12-25 18:00:00: FM End: Technical issue<br>2025-07-11 06:00:00: FM Start: Flood event<br>2025-07-14 16:00:00: FM End: Flood event",
         "station_status_remark": "SDGAN-335",
         "MAX_RANGE": "500.0"
     },
@@ -8520,7 +8520,7 @@
         "catchment_name": "---",
         "territory_name": "Uttar Pradesh",
         "ObjectDescription": "",
-        "station_diary_status": "2023-09-01 15:00:00: FM Start: Flood event<br>2023-10-18 13:00:00: FM End: Flood event<br>2024-07-22 14:00:00: FM Start: Technical issue<br>2024-07-23 21:00:00: FM End: Technical issue<br>2024-12-23 11:00:00: FM Start: Technical issue<br>2024-12-23 14:00:00: FM End: Technical issue<br>2025-09-27 18:00:00: FM Start: Technical issue",
+        "station_diary_status": "2023-09-01 15:00:00: FM Start: Flood event<br>2023-10-18 13:00:00: FM End: Flood event<br>2024-07-22 14:00:00: FM Start: Technical issue<br>2024-07-23 21:00:00: FM End: Technical issue<br>2024-12-23 11:00:00: FM Start: Technical issue<br>2024-12-23 14:00:00: FM End: Technical issue<br>2025-09-27 18:00:00: FM Start: Technical issue<br>2025-10-04 16:00:00: FM End: Technical issue",
         "station_status_remark": "SDGAN-347",
         "MAX_RANGE": ""
     },
@@ -8595,7 +8595,7 @@
         "catchment_name": "---",
         "territory_name": "Uttar Pradesh",
         "ObjectDescription": "",
-        "station_diary_status": "2023-09-01 15:00:00: FM Start: Flood event<br>2023-10-18 13:00:00: FM End: Flood event<br>2024-07-22 14:00:00: FM Start: Technical issue<br>2024-07-23 21:00:00: FM End: Technical issue<br>2024-12-23 11:00:00: FM Start: Technical issue<br>2024-12-23 14:00:00: FM End: Technical issue<br>2025-09-27 18:00:00: FM Start: Technical issue",
+        "station_diary_status": "2023-09-01 15:00:00: FM Start: Flood event<br>2023-10-18 13:00:00: FM End: Flood event<br>2024-07-22 14:00:00: FM Start: Technical issue<br>2024-07-23 21:00:00: FM End: Technical issue<br>2024-12-23 11:00:00: FM Start: Technical issue<br>2024-12-23 14:00:00: FM End: Technical issue<br>2025-09-27 18:00:00: FM Start: Technical issue<br>2025-10-04 16:00:00: FM End: Technical issue",
         "station_status_remark": "SDGAN-347",
         "MAX_RANGE": ""
     },
@@ -11420,7 +11420,7 @@
         "catchment_name": "---",
         "territory_name": "Uttar Pradesh",
         "ObjectDescription": "",
-        "station_diary_status": "2023-09-01 15:00:00: FM Start: Flood event<br>2023-10-18 13:00:00: FM End: Flood event<br>2024-07-22 14:00:00: FM Start: Technical issue<br>2024-07-23 21:00:00: FM End: Technical issue<br>2024-12-23 11:00:00: FM Start: Technical issue<br>2024-12-23 14:00:00: FM End: Technical issue<br>2025-09-27 18:00:00: FM Start: Technical issue",
+        "station_diary_status": "2023-09-01 15:00:00: FM Start: Flood event<br>2023-10-18 13:00:00: FM End: Flood event<br>2024-07-22 14:00:00: FM Start: Technical issue<br>2024-07-23 21:00:00: FM End: Technical issue<br>2024-12-23 11:00:00: FM Start: Technical issue<br>2024-12-23 14:00:00: FM End: Technical issue<br>2025-09-27 18:00:00: FM Start: Technical issue<br>2025-10-04 16:00:00: FM End: Technical issue",
         "station_status_remark": "SDGAN-347",
         "MAX_RANGE": ""
     },
@@ -11520,7 +11520,7 @@
         "catchment_name": "---",
         "territory_name": "Jharkhand",
         "ObjectDescription": "",
-        "station_diary_status": "2022-07-13 00:00:00: FM Start: Low water<br>2022-08-11 03:00:00: FM End: Reason<br>2022-08-24 15:00:00: FM Start: Flood event<br>2022-10-28 17:00:00: FM End: Flood event<br>2024-08-03 08:00:00: FM Start: Flood event<br>2024-08-20 18:00:00: FM End: Flood event<br>2024-12-25 16:00:00: FM Start: Technical issue<br>2024-12-25 18:00:00: FM End: Technical issue<br>2025-07-11 06:00:00: FM Start: Flood event",
+        "station_diary_status": "2022-07-13 00:00:00: FM Start: Low water<br>2022-08-11 03:00:00: FM End: Reason<br>2022-08-24 15:00:00: FM Start: Flood event<br>2022-10-28 17:00:00: FM End: Flood event<br>2024-08-03 08:00:00: FM Start: Flood event<br>2024-08-20 18:00:00: FM End: Flood event<br>2024-12-25 16:00:00: FM Start: Technical issue<br>2024-12-25 18:00:00: FM End: Technical issue<br>2025-07-11 06:00:00: FM Start: Flood event<br>2025-07-14 16:00:00: FM End: Flood event",
         "station_status_remark": "SDGAN-335",
         "MAX_RANGE": ""
     },
