@@ -11476,9 +11476,9 @@
     },
     {
         "ts_id": 17462010,
-        "timestamp": "2025-12-22T12:30:00.000Z",
+        "timestamp": "2025-12-22T13:30:00.000Z",
         "req_timestamp": null,
-        "ts_value": 769.31,
+        "ts_value": 759.31,
         "station_latitude": 26.40877,
         "station_longitude": 79.4914,
         "ts_name": "DSP.Cmd.Production",
