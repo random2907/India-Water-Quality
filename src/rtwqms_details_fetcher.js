@@ -1,4 +1,5 @@
 import fs from 'fs/promises';
+process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0";
 
 const url = 'https://rtwqmsdb1.cpcb.gov.in/data/internet/layers/10/index.json';
 
