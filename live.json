@@ -7301,7 +7301,7 @@
     },
     {
         "ts_id": 37758010,
-        "timestamp": "2026-08-23T09:30:00.000Z",
+        "timestamp": "2026-08-23T10:30:00.000Z",
         "req_timestamp": null,
         "ts_value": 62.11,
         "station_latitude": 25.5868,
@@ -9576,9 +9576,9 @@
     },
     {
         "ts_id": 17426010,
-        "timestamp": "2026-08-23T09:30:00.000Z",
+        "timestamp": "2026-08-23T10:30:00.000Z",
         "req_timestamp": null,
-        "ts_value": 478.4,
+        "ts_value": 471.6,
         "station_latitude": 25.5868,
         "station_longitude": 83.60569,
         "ts_name": "DSP.Cmd.Production",
@@ -11101,9 +11101,9 @@
     },
     {
         "ts_id": 39195010,
-        "timestamp": "2026-08-23T09:30:00.000Z",
+        "timestamp": "2026-08-23T10:30:00.000Z",
         "req_timestamp": null,
-        "ts_value": 49.29,
+        "ts_value": 53.55,
         "station_latitude": 25.5868,
         "station_longitude": 83.60569,
         "ts_name": "DSP.Cmd.Production",
